@@ -10,4 +10,5 @@
 <div align=center>
 	
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://whoamixzerone.github.io/)](https://whoamixzerone.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whoamixzerone@gmail.com)](mailto:whoamixzerone@gmail.com)
 </div>
