@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ![whoamixzerone github stats](https://github-readme-stats.vercel.app/api?username=whoamixzerone&show_icons=true&theme=radical)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=whoamixzerone)](https://solved.ac/whoamixzerone)
 <!--
 <div align=center>	
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://whoamixzerone.github.io/)](https://whoamixzerone.github.io/) 
