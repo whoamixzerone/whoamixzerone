@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 [![whoamixzerone github stats](https://github-readme-stats.vercel.app/api?username=whoamixzerone&show_icons=true&theme=dracula)](https://github.com/whoamixzerone/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-loangs/?username=whoamixzerone&layout=compact&theme=dracula)](https://github.com/whoamixzerone)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoamixzerone&layout=compact&theme=dracula)](https://github.com/whoamixzerone)
 <!--
 <div align=center>	
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://whoamixzerone.github.io/)](https://whoamixzerone.github.io/) 
